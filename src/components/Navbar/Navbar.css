@@ -1,0 +1,19 @@
+.searchInput::placeholder {
+  color: white;
+  font-size: min(150px,80%);
+}
+.form{
+  display: flex;
+  border: 1px solid white;
+  width: min(250px, 50%);
+  border-radius: 10px;
+  padding: 5px;
+}
+.searchInput{
+  width: min(180px, 90%);
+
+  outline: none;
+}
+.logo-img{
+  max-width: 105px;
+}
